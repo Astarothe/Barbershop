@@ -1,0 +1,10 @@
+.navbar-brand{
+  padding-left: 80px;
+}
+.navbar-nav li{
+  padding-right:100px;
+}
+nav .navbar{
+ background-color: rgba(0, 50, 50, 0.5);
+ color:white;
+}
